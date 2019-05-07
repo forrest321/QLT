@@ -1,13 +1,4 @@
-# Android Kotlin Mvp Starter [![Build Status](https://travis-ci.org/ravidsrk/android-mvp-starter.svg?branch=master)](https://travis-ci.org/ravidsrk/android-mvp-starter)
-
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Android%20MVP%20Starter-blue.svg?style=flat)](https://android-arsenal.com/details/3/5232)
-[![Join the chat at https://gitter.im/android-mvp-starter/Lobby](https://badges.gitter.im/android-mvp-starter/Lobby.svg)](https://gitter.im/android-mvp-starter/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-An MVP Boilerplate to save me having to create the same project over from scratch every time! :)
-<p align="center">
-  <img src="http://g.recordit.co/L5selg7aIv.gif" width="250">
-  <img src="http://g.recordit.co/xt4o5wTySc.gif">
-</p>
+# QLT Yuneec Mantis Q Log Tool
 
 ## This project uses:
 - [RxJava2](https://github.com/ReactiveX/RxJava) and [RxAndroid](https://github.com/ReactiveX/RxAndroid)
@@ -22,14 +13,6 @@ An MVP Boilerplate to save me having to create the same project over from scratc
 - [Espresso](https://google.github.io/android-testing-support-library/) for UI tests
 - [Robolectric](http://robolectric.org/) for framework specific unit tests
 - [Mockito](http://mockito.org/)
-
-## Create new project using yeoman [generator-android-mvp-starter](https://github.com/ravidsrk/generator-android-mvp-starter)
-```bash
-npm install -g yo
-npm install -g generator-android-mvp-starter
-mkdir NewApp && cd $_
-yo android-mvp-starter
-```
 
 ## Building
 
